@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8711
     wikipedia: http://www.oberlin.edu/archive/holdings/finding/RG30/SG18/biography.html
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22392#Essentials-in-Conducting
 gutenberg_bookshelf: Music
 gutenberg_issued: '2007-08-25'
 gutenberg_type: Text
